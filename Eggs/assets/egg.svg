@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 793.7008 1122.5197"
+   sodipodi:docname="egg.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="C:\Users\SAM\Documents\python app\project\Py_Eggs\assets\egg4.png"
+   inkscape:export-xdpi="750"
+   inkscape:export-ydpi="750">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient825">
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:1;"
+         offset="0"
+         id="stop821" />
+      <stop
+         style="stop-color:#ffcc00;stop-opacity:0;"
+         offset="1"
+         id="stop823" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient900">
+      <stop
+         style="stop-color:#afe9c6;stop-opacity:1;"
+         offset="0"
+         id="stop896" />
+      <stop
+         style="stop-color:#afe9c6;stop-opacity:0;"
+         offset="1"
+         id="stop898" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient900"
+       id="radialGradient902"
+       cx="401.54953"
+       cy="566.68726"
+       fx="401.54953"
+       fy="566.68726"
+       r="238.33791"
+       gradientTransform="matrix(1,0,0,1.0123617,0,-7.0052104)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient825"
+       id="linearGradient827"
+       x1="399.4529"
+       y1="490.18167"
+       x2="460.85094"
+       y2="490.18167"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.67882997"
+     inkscape:cx="396.85039"
+     inkscape:cy="561.25984"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     units="mm"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <ellipse
+     ry="47.508217"
+     rx="30.19902"
+     cy="490.18167"
+     cx="429.80807"
+     id="ellipse901"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-opacity:1" />
+  <ellipse
+     style="fill:url(#linearGradient827);fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-opacity:1"
+     id="path875"
+     cx="430.15192"
+     cy="490.18167"
+     rx="30.19902"
+     ry="47.508217"
+     inkscape:export-xdpi="750"
+     inkscape:export-ydpi="750" />
+</svg>
